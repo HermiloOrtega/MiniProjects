@@ -1,0 +1,213 @@
+Alberta
+Argentia
+Asbestos
+Baddeck
+Bancroft
+Banff
+Barkerville
+Barrie
+Bathurst
+Batoche
+Belleville
+Beloeil
+Bonavista
+Borden
+Brampton
+Brandon
+Brantford
+British Columbia
+Brockville
+Brooks
+Burlington
+Burnaby
+Calgary
+Cambridge
+Campbell River
+Caraquet
+Cavendish
+Chambly
+Charlesbourg
+Charlottetown
+Châteauguay
+Chatham
+Chibougamau
+Chilliwack
+Churchill
+Corner Brook
+Cornwall
+Courtenay
+Cranbrook
+Cumberland House
+Dalhousie
+Dauphin
+Dawson
+Dawson Creek
+Delta
+Digby
+Dorval
+Edmonton
+Elliot Lake
+Esquimalt
+Estevan
+Etobicoke
+Ferryland
+Flin Flon
+Flin Flon
+Fort Erie
+Fort Frances
+Fort McMurray
+Fort Saint James
+Fort Saint John
+Fort Smith
+Fredericton
+Gananoque
+Gander
+Gatineau
+Glace Bay
+Granby
+Grande Prairie
+Guelph
+Halifax
+Hamilton
+Harbour Grace
+Hay River
+Hope
+Hull
+Inuvik
+Iqaluit
+Iroquois Falls
+Jasper
+Kamloops
+Kapuskasing
+Kawartha Lakes
+Kelowna
+Kenora
+Kildonan
+Kimberley
+Kingston
+Kirkland Lake
+Kitchener
+Kitimat
+Kuujjuaq
+La Salle
+La Tuque
+Labrador City
+Lachine
+Lake Louise
+Langley
+Laurentian Hills
+Laval
+Lethbridge
+Liverpool
+London
+Longueuil
+Louisbourg
+Lunenburg
+Magog
+Manitoba
+Matane
+Medicine Hat
+Midland
+Miramichi
+Mississauga
+Moncton
+Montreal
+Moose Factory
+Moose Jaw
+Moosonee
+Nanaimo
+Nelson
+New Brunswick
+New Westminster
+Newfoundland and Labrador
+Niagara Falls
+North Bay
+North Vancouver
+North York
+Northwest Territories
+Nova Scotia
+Nunavut
+Oak Bay
+Oakville
+Ontario
+Orillia
+Oshawa
+Ottawa
+Parry Sound
+Penticton
+Perth
+Peterborough
+Picton
+Pictou
+Placentia
+Port Colborne
+Port Hawkesbury
+Powell River
+Prince Albert
+Prince Edward Island
+Prince George
+Prince Rupert
+Quebec
+Quebec
+Quesnel
+Red Deer
+Regina
+Revelstoke
+Rimouski
+Rossland
+Rouyn-Noranda
+Saguenay
+Saint Albert
+Saint Anthony
+Saint Boniface
+Saint Catharines
+Saint John
+Saint Thomas
+Sainte-Foy
+Saint-Eustache
+Saint-Hubert
+Sarnia-Clearwater
+Saskatchewan
+Saskatoon
+Sault Sainte Marie
+Scarborough
+Sherbrooke
+Simcoe
+Sorel-Tracy
+Souris
+Springhill
+Stratford
+Sudbury
+Summerside
+Swan River
+Sydney
+Temiskaming Shores
+Thompson
+Thorold
+Thunder Bay
+Timmins
+Toronto
+Trail
+Trenton
+Tuktoyaktuk
+Uranium City
+Vancouver
+Vernon
+Victoria
+Wabana
+Waskaganish
+Waterloo
+Watson Lake
+Welland
+West Nipissing
+West Vancouver
+White Rock
+Whitehorse
+Windsor
+Winnipeg
+Woodstock
+Yarmouth
+Yellowknife
+York
+York Factory
+Yukon
