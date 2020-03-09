@@ -29,49 +29,6 @@ public class City {
      */
     public static void setFileName(String fileName) { City.fileName = fileName; }
     /**
-     * Set limitChances
-     * @param limitChances
-     * @return --
-     */
-    public static void setLimitChances(int limitChances) { City.limitChances = limitChances; }
-    /**
-     * Set lettersWrong
-     * @param lettersWrong
-     * @return --
-     */
-    public static void setLettersWrong(String lettersWrong) { City.lettersWrong = lettersWrong; }
-    /**
-     * Set fails
-     * @param fails
-     * @return --
-     */
-    public static void setFails(int fails) { City.fails = fails; }
-    /**
-     * Get getFileName
-     * @param --
-     * @return getFileName
-     */
-    public static String getFileName() { return fileName; }
-    /**
-     * Get getLimitChances
-     * @param --
-     * @return getLimitChances
-     */
-    public static int getLimitChances() { return limitChances; }
-    /**
-     * Get getLettersWrong
-     * @param --
-     * @return getLettersWrong
-     */
-    public static String getLettersWrong() { return lettersWrong; }
-    /**
-     * Get getFails
-     * @param --
-     * @return getFails
-     */
-    public static int getFails() { return fails; }
-
-    /**
      * Load the city list from the file
      * @param --
      * @return --
@@ -97,6 +54,53 @@ public class City {
             citiesTxt.close();
         }
     }
+
+    // SET
+    /**
+     * Set limitChances
+     * @param limitChances
+     * @return --
+     */
+    public static void setLimitChances(int limitChances) { City.limitChances = limitChances; }
+    /**
+     * Set lettersWrong
+     * @param lettersWrong
+     * @return --
+     */
+    public static void setLettersWrong(String lettersWrong) { City.lettersWrong = lettersWrong; }
+    /**
+     * Set fails
+     * @param fails
+     * @return --
+     */
+    public static void setFails(int fails) { City.fails = fails; }
+    // GET
+    /**
+     * Get getFileName
+     * @param --
+     * @return getFileName
+     */
+    public static String getFileName() { return fileName; }
+    /**
+     * Get getLimitChances
+     * @param --
+     * @return getLimitChances
+     */
+    public static int getLimitChances() { return limitChances; }
+    /**
+     * Get getLettersWrong
+     * @param --
+     * @return getLettersWrong
+     */
+    public static String getLettersWrong() { return lettersWrong; }
+    /**
+     * Get getFails
+     * @param --
+     * @return getFails
+     */
+    public static int getFails() { return fails; }
+
+
     /**
      * Guess city logic
      * @param --
